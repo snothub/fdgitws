@@ -45,7 +45,7 @@ git config --global alias.visual '!gitk'
 
 WSL2
 
-# Det meste jeg gjorde er beskrevet her med linker til relevante sider
+#### Det meste jeg gjorde er beskrevet her med linker til relevante sider
 https://johnbwoodruff.com/posts/more-epic-environment-wsl2/
 
 
