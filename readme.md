@@ -82,6 +82,15 @@ sudo apt install gedit # tekstredigering
 
 exec zsh # kjør hver gang noe endres i config
 
+```
+
+#### Legg også merke til at med OgMyZsh trenger du ikke lenger skrive "cd <mappe>", 
+#### men kan bare skrive mappenavn og <Enter> for å gå inn i mappen.
+#### Tilsvarende kan du skrive .. og <Enter> for å gå ut, og hver ekstra "." tar deg bakover i mappene, nice! :)
+
+
+``` powershell
+
 # powerlevel10k Theme:
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 
