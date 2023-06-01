@@ -84,10 +84,11 @@ exec zsh # kjør hver gang noe endres i config
 
 ```
 
-#### Legg også merke til at med OgMyZsh trenger du ikke lenger skrive "cd <mappe>", 
-#### men kan bare skrive mappenavn og <Enter> for å gå inn i mappen.
-#### Tilsvarende kan du skrive .. og <Enter> for å gå ut, og hver ekstra "." tar deg bakover i mappene, nice! :)
+> Legg også merke til at med OgMyZsh trenger du ikke lenger skrive "cd <mappe>", 
+> men kan bare skrive mappenavn og <Enter> for å gå inn i mappen.
+> Tilsvarende kan du skrive .. og <Enter> for å gå ut, og hver ekstra "." tar deg bakover i mappene, nice! :)
 
+---
 
 ``` powershell
 
